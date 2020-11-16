@@ -12,12 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Aryaman Sinha</h1>
+<h2 align="center">Hi 👋, I'm Aryaman Sinha</h2>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=as791&show_icons=true" alt="as791" /> </p>
 
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=as791" /> </p>
-
-<p align="center"><a href="http://as791.github.io/">Hire Me</a></p>
 
 <p align="center">
    <a href="https://www.linkedin.com/in/as791/">
