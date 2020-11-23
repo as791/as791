@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h2 align="center">Hi 👋, I'm Aryaman Sinha</h2>
+
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=as791&show_icons=true" alt="as791" /> </p>
 
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=as791" /> </p>
@@ -22,9 +23,9 @@ Here are some ideas to get you started:
   <img alt="Coverage" src="https://img.shields.io/badge/-Aryaman Sinha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/as791/" width="170">
   </a>
 </p>
-
 <p align="center">
    <a href="https://img.shields.io/github/followers/as791?label=Follow&style=social">
   <img alt="Coverage" src="https://img.shields.io/github/followers/as791?label=Follow&style=social" height="25">
   </a>
 </p>
+<p align="center"> <img src = "https://komarev.com/ghpvc/?username=as791" /> </p>
