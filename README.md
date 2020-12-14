@@ -28,4 +28,3 @@ Here are some ideas to get you started:
   <img alt="Coverage" src="https://img.shields.io/github/followers/as791?label=Follow&style=social" height="25">
   </a>
 </p>
-<p align="center"> <img src = "https://komarev.com/ghpvc/?username=as791" /> </p>
