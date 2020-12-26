@@ -25,7 +25,7 @@
    - Machine Learning, Deep Learning
    
 ### GitHub Stats
-<p>
+<p align="center">
    <a href="https://img.shields.io/github/followers/as791?label=Follow&style=social">
       <img alt="Coverage" src="https://img.shields.io/github/followers/as791?label=Follow&style=social" height="25">
    </a>
