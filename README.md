@@ -33,8 +33,8 @@
    <img alt="Updated" src="https://img.shields.io/github/last-commit/as791/as791?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
 </p>
 
+![](https://github-readme-stats.vercel.app/api?username=as791&count_private=true&show_icons=true&count_private=true)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=as791&layout=compact&count_private=true)
 
-![]("https://github-readme-stats.vercel.app/api?username=as791&show_icons=true)
-
-![]("https://github-profile-trophy.vercel.app/?username=as791")
+![](https://github-profile-trophy.vercel.app/?username=as791)
