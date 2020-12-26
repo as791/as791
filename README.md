@@ -36,8 +36,3 @@
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=as791&count_private=true&show_icons=true&count_private=true" alt="as791" /> </p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=as791&layout=compact&count_private=true" /> </p>	
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=as791" /> </p>
-![]()
-
-![]()
-
-![]()
