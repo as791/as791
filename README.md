@@ -23,7 +23,8 @@
 - 💬 Ask me about:
    - Image Processing, Computer Vision
    - Machine Learning, Deep Learning
-   
+- 📘 Check out my content:
+   - Articles at https://medium.com/@aryamansinha_31401
 ### GitHub Stats
 <p align="center">
    <a href="https://img.shields.io/github/followers/as791?label=Follow&style=social">
