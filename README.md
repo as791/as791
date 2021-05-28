@@ -15,14 +15,14 @@
 - 🔭 Things I'm currently working on:
    - Implementation of Deep Learning Research Papers
    - Problems related to Adversarial Examples
-- 🌱 I’m currently learning:
-   - NodeJS, ExpressJS
-   - Exploring GANs
+- 🌱 I’m currently exploring:
+   - GANs 
+   - Security related issues of DNN and its applications
 - 👯 I’m looking to collaborate on:
    - Deep Learning/Computer Vision Problems
 - 💬 Ask me about:
-   - Image Processing, Computer Vision
-   - Machine Learning, Deep Learning
+   - Image Processing/Computer Vision
+   - Machine Learning/Deep Learning
 - 📘 Check out my content:
    - Articles at https://medium.com/@aryamansinha_31401
 ### GitHub Stats
