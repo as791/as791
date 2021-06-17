@@ -4,7 +4,7 @@
    <a href="https://www.linkedin.com/in/as791/">
   <img src="https://img.shields.io/badge/Aryaman Sinha-informational?style=for-the-badge&labelColor=black&logo=linkedin&logoColor=0077b5&&color=0077b5">
   </a>
-   <a href="mailto:as79@iitbbs.ac.in">
+   <a href="mailto: aryamansinha123@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-as79@iitbbs.ac.in-informational?style=for-the-badge&labelColor=black&logoColor=d14836&logo=gmail&color=d14836"/>
   </a>
 </p>
