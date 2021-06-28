@@ -13,13 +13,13 @@
 
 ### About Me
 - 🔭 Things I'm currently working on:
-   - Implementation of Deep Learning Research Papers
-   - Problems related to Adversarial Examples
-- 🌱 I’m currently exploring:
-   - GANs 
-   - Security related issues of DNN and its applications
+   - Implementation of Deep Learning Papers
+   - Problem related to Adversarial Examples
+- 🌱 I’m currently learning:
+   - Java Core
+   - Spring Boot
 - 👯 I’m looking to collaborate on:
-   - Deep Learning/Computer Vision Problems
+   - Deep Learning/Computer Vision Projects
 - 💬 Ask me about:
    - Image Processing/Computer Vision
    - Machine Learning/Deep Learning
