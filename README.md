@@ -7,7 +7,10 @@
    <a href="mailto:aryamansinha123@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-aryamansinha123@gmail.com-informational?style=for-the-badge&labelColor=black&logoColor=d14836&logo=gmail&color=d14836"/>
   </a>
-</p>
+<!--    <a href="https://sites.google.com/view/aryaman-sinha/home">
+   <p align="center"> Check me out at aryaman-sinha </p>
+   </a> -->
+<!-- </p> -->
 
 ---
 
@@ -26,6 +29,8 @@
    - Machine Learning & Deep Learning
 - 📘 Check out my content:
    - Articles at [@aryamansinha_31401](https://medium.com/@aryamansinha_31401)
+- 👨🏻‍💻 Know more about me at [@aryaman-sinha](https://sites.google.com/view/aryaman-sinha/home)
+   
 ### GitHub Stats
 <p align="center">
    <a href="https://img.shields.io/github/followers/as791?label=Follow&style=social">
