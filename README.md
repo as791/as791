@@ -17,11 +17,11 @@
 ### About Me
 
 - 🔭 Things I'm currently working on:
-   - Implementation of Deep Learning Papers
-   - Problem related to Adversarial Examples
+   - Re-production of Deep Learning Papers specific to Computer Vision
+   - Quantum CNN
 - 🌱 I’m currently learning:
-   - Java Core
-   - Spring Boot
+   - Java Core, Spring Boot
+   - Quantum Circuits
 - 👯 I’m looking to collaborate on:
    - Computer Vision Projects
 - 💬 Ask me about:
