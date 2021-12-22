@@ -17,7 +17,7 @@
 ### About Me
 
 - 🔭 Things I'm currently working on:
-   - Re-production of Deep Learning Papers specific to Computer Vision
+   - Re-product of Deep Learning Papers specific to Computer Vision
    - Quantum CNN
 - 🌱 I’m currently learning:
    - Java Core, Spring Boot
@@ -29,6 +29,7 @@
    - Machine Learning & Deep Learning
 - 📘 Check out my content:
    - Articles at [@aryamansinha_31401](https://medium.com/@aryamansinha_31401)
+   - Publications at [google scholar](https://scholar.google.com/citations?user=e_pOCNcAAAAJ&hl=en)
 - 👨🏻‍💻 Know more about me at [@aryaman-sinha](https://sites.google.com/view/aryaman-sinha/home)
    
 ### GitHub Stats
