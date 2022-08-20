@@ -17,7 +17,8 @@
 ### About Me
 
 - 🔭 Things I'm currently working on:
-   - TDB
+   - GoLang
+   - Kubernetes
 - 🌱 I’m currently learning:
    - Java Core & Spring Boot
    - Design Patterns
