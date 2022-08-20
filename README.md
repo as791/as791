@@ -17,11 +17,10 @@
 ### About Me
 
 - 🔭 Things I'm currently working on:
+   - TBD
+- 🌱 I’m currently learning:
    - GoLang
    - Kubernetes
-- 🌱 I’m currently learning:
-   - Java Core & Spring Boot
-   - Design Patterns
 - 👯 I’m looking to collaborate on:
    - Computer Vision Projects
 - 💬 Ask me about:
