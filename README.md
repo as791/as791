@@ -20,7 +20,7 @@
    - TBD
 - 🌱 I’m currently learning:
    - GoLang
-   - Kubernetes
+   - Design Patterns
 - 👯 I’m looking to collaborate on:
    - Computer Vision Projects
 - 💬 Ask me about:
