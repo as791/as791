@@ -7,8 +7,8 @@
    <a href="mailto:aryamansinha123@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-aryamansinha123@gmail.com-informational?style=for-the-badge&labelColor=black&logoColor=d14836&logo=gmail&color=d14836"/>
   </a>
-<!--    <a href="https://sites.google.com/view/aryaman-sinha/home">
-   <p align="center"> Check me out at aryaman-sinha </p>
+<!--    <a href="https://sites.google.com/view/as791/home">
+   <p align="center"> Check me out at as791 </p>
    </a> -->
 <!-- </p> -->
 
@@ -27,9 +27,9 @@
    - Computer Vision
    - Machine Learning & Deep Learning
 - 📘 Check out my content:
-   - Articles at [@aryamansinha_31401](https://medium.com/@aryamansinha_31401)
+   - Articles at [@as791](https://medium.com/@as791)
    - Publications at [google scholar](https://scholar.google.com/citations?user=e_pOCNcAAAAJ&hl=en)
-- 👨🏻‍💻 Know more about me at [@aryaman-sinha](https://sites.google.com/view/aryaman-sinha/home)
+- 👨🏻‍💻 Know more about me at [@as791](https://sites.google.com/view/as791/home)
    
 ### GitHub Stats
 <p align="center">
