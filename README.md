@@ -16,16 +16,16 @@
 
 ### About Me
 
-- 🔭 Things I'm currently working on:
-   - TBD
+- 🔭 Things I'm currently working/excited about:
+   - Exploring a way to make something interesting
 - 🌱 I’m currently learning:
-   - GoLang
    - Design Patterns
 - 👯 I’m looking to collaborate on:
    - Computer Vision Projects
 - 💬 Ask me about:
    - Computer Vision
    - Machine Learning & Deep Learning
+   - Adversarial Attacks & Defenses
 - 📘 Check out my content:
    - Articles at [@as791](https://medium.com/@as791)
    - Publications at [google scholar](https://scholar.google.com/citations?user=e_pOCNcAAAAJ&hl=en)
