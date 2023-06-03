@@ -16,8 +16,8 @@
 
 ### About Me
 
-- 🔭 Things I'm currently working/excited about:
-   - Exploring a way to make something interesting
+- 🔭 Things I'm currently working on:
+   - Myslef
 - 🌱 I’m currently learning:
    - Design Patterns
 - 👯 I’m looking to collaborate on:
