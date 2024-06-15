@@ -17,15 +17,16 @@
 ### About Me
 
 - 🔭 Things I'm currently working on:
-   - Myself
+   - Combining Language Models and Computer Vision tasks 
 - 🌱 I’m currently learning:
-   - Design Patterns
+   - About Language Models
 - 👯 I’m looking to collaborate on:
    - Computer Vision Projects
 - 💬 Ask me about:
    - Computer Vision
    - Machine Learning & Deep Learning
    - Adversarial Attacks & Defenses
+   - Data Engineering
 - 📘 Check out my content:
    - Articles at [@as791](https://medium.com/@as791)
    - Publications at [google scholar](https://scholar.google.com/citations?user=e_pOCNcAAAAJ&hl=en)
