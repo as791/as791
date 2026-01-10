@@ -40,5 +40,5 @@
 </p>
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/as791?template=classic" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=as791&show_icons=true" />
 </p>
