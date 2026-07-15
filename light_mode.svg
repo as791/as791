@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="500" viewBox="0 0 900 500" font-family="Consolas, Menlo, monospace" font-size="13px">
+<rect x="0.5" y="0.5" width="899" height="499" rx="10" fill="#ffffff" stroke="#d0d7de"/>
+<text x="25" y="82" fill="#57606a" xml:space="preserve">          @@@@@@       @@@@@@@@</text>
+<text x="25" y="102" fill="#57606a" xml:space="preserve">         @@    @@     @@</text>
+<text x="25" y="122" fill="#57606a" xml:space="preserve">         @@    @@     @@</text>
+<text x="25" y="142" fill="#57606a" xml:space="preserve">         @@@@@@@@      @@@@@@@</text>
+<text x="25" y="162" fill="#57606a" xml:space="preserve">         @@    @@            @@</text>
+<text x="25" y="182" fill="#57606a" xml:space="preserve">         @@    @@            @@</text>
+<text x="25" y="202" fill="#57606a" xml:space="preserve">         @@    @@     @@@@@@@@</text>
+<text x="25" y="222" fill="#57606a" xml:space="preserve"></text>
+<text x="25" y="242" fill="#57606a" xml:space="preserve">        7777777      99999       11</text>
+<text x="25" y="262" fill="#57606a" xml:space="preserve">             77     99   99     111</text>
+<text x="25" y="282" fill="#57606a" xml:space="preserve">            77       999999      11</text>
+<text x="25" y="302" fill="#57606a" xml:space="preserve">           77            99      11</text>
+<text x="25" y="322" fill="#57606a" xml:space="preserve">          77            99       11</text>
+<text x="25" y="342" fill="#57606a" xml:space="preserve">         77        99999       111111</text>
+<text x="25" y="362" fill="#57606a" xml:space="preserve"></text>
+<text x="25" y="382" fill="#57606a" xml:space="preserve">       build · learn · distribute</text>
+<text x="390" y="45" xml:space="preserve"><tspan fill="#0969da">as791@github </tspan><tspan fill="#afb8c1">─────────────────────────────────────────────</tspan></text>
+<text x="390" y="89" xml:space="preserve"><tspan fill="#953800">Role: </tspan><tspan fill="#afb8c1">........................... </tspan><tspan fill="#24292f">Senior Software Engineer</tspan></text>
+<text x="390" y="111" xml:space="preserve"><tspan fill="#953800">Company: </tspan><tspan fill="#afb8c1">......................................... </tspan><tspan fill="#24292f">MerQube</tspan></text>
+<text x="390" y="133" xml:space="preserve"><tspan fill="#953800">Location: </tspan><tspan fill="#afb8c1">............................... </tspan><tspan fill="#24292f">Bangalore, India</tspan></text>
+<text x="390" y="155" xml:space="preserve"><tspan fill="#953800">Focus: </tspan><tspan fill="#afb8c1">............. </tspan><tspan fill="#24292f">Data, Distributed Systems, ML / GenAI</tspan></text>
+<text x="390" y="199" xml:space="preserve"><tspan fill="#953800">Languages: </tspan><tspan fill="#afb8c1">.................. </tspan><tspan fill="#24292f">Java, Python, Go, TypeScript</tspan></text>
+<text x="390" y="221" xml:space="preserve"><tspan fill="#953800">Backend: </tspan><tspan fill="#afb8c1">........... </tspan><tspan fill="#24292f">Spring, Microservices, Data Platforms</tspan></text>
+<text x="390" y="243" xml:space="preserve"><tspan fill="#953800">Research: </tspan><tspan fill="#afb8c1">..................... </tspan><tspan fill="#24292f">Computer Vision, Robust ML</tspan></text>
+<text x="390" y="287" xml:space="preserve"><tspan fill="#0969da">─ Contact </tspan><tspan fill="#afb8c1">────────────────────────────────────────────────</tspan></text>
+<text x="390" y="309" xml:space="preserve"><tspan fill="#953800">Web: </tspan><tspan fill="#afb8c1">.................... </tspan><tspan fill="#24292f">sites.google.com/view/as791/home</tspan></text>
+<text x="390" y="331" xml:space="preserve"><tspan fill="#953800">LinkedIn: </tspan><tspan fill="#afb8c1">....................................... </tspan><tspan fill="#24292f">in/as791</tspan></text>
+<text x="390" y="375" xml:space="preserve"><tspan fill="#0969da">─ GitHub Stats </tspan><tspan fill="#afb8c1">───────────────────────────────────────────</tspan></text>
+<text x="390" y="397" xml:space="preserve"><tspan fill="#953800">Repos: </tspan><tspan fill="#afb8c1">.... </tspan><tspan fill="#24292f">27 {Contributed: 4}</tspan><tspan fill="#afb8c1"> | </tspan><tspan fill="#953800">Stars: </tspan><tspan fill="#afb8c1">............. </tspan><tspan fill="#24292f">251</tspan></text>
+<text x="390" y="419" xml:space="preserve"><tspan fill="#953800">Commits: </tspan><tspan fill="#afb8c1">.................. </tspan><tspan fill="#24292f">461</tspan><tspan fill="#afb8c1"> | </tspan><tspan fill="#953800">Followers: </tspan><tspan fill="#afb8c1">.......... </tspan><tspan fill="#24292f">36</tspan></text>
+<text x="390" y="441" xml:space="preserve"><tspan fill="#953800">Public code: </tspan><tspan fill="#afb8c1">.......... </tspan><tspan fill="#24292f">45.8 MiB across owned repositories</tspan></text>
+</svg>
