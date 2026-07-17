@@ -5,7 +5,6 @@ Actions. ACCESS_TOKEN is optional; when present, private contribution data is
 included. The repository's GITHUB_TOKEN is enough for all public statistics.
 """
 
-import base64
 import html
 import json
 import os
@@ -18,6 +17,36 @@ from datetime import datetime, timezone
 USER = "as791"
 JOINED_YEAR = 2018
 WIDTH = 58
+
+ART = r"""
+                  :=+=+*:.:
+                %::=#*%%-::--
+               *#*#%@@@@@%*+-*
+             .+@@######*#@@@##%%
+             +@%+=====--:-+%@%#%%
+            .@@+=+++====--:=%@%%%
+           .-@%++*++====----#@@%%%
+           :-@**#%%%***###*=+@@%%%
+          #:-%*#@@@@%##@@%%*+%%@@@@
+          ::-#+**####-+###+=-*=====
+          ...*++==+*+--++-::-*-::..
+          .:.****#%%%#%*#*+=+*::::
+           : *@%%@@@@%%%@@##%+::--
+           =+%@@@@@%%###%@@@@*+=#%
+           +##%@@@@@%%%%@@@%**+==+
+           **#%#%@@@@@@@@@%+%#***
+            @@*%##%@@@@%%#*=@@@@
+             %.#%######*##:=@@@@
+           @@=.:##*****#**+*@@@@@@
+         @@@@*#:.-+++**==*#%@@@@@@@@
+      @@@@@@%=--:.::+=:..:+@@@@@@@@@@@@
+    @@@@@@@@*     .....   =@@@@@@@@@@@@@@
+   @@@@@@@@@=             =@@@@@@@@@@@@@@@
+  @@@@@@@@@@:             +@@@@@@@@@@@@@@@@
+  @@@@@@@@@%.             *@@@@@@@@@@@@@@@@
+ @@@@@@@@@@#.             #@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@#.            .%@@@@@@@@@@@@@@@@@
+"""
 
 PALETTES = {
     "dark": {
@@ -72,17 +101,6 @@ def graphql(query, variables=None):
     return payload["data"]
 
 
-def fetch_avatar_data(url):
-    request = urllib.request.Request(
-        url,
-        headers={"User-Agent": f"{USER}-profile-readme"},
-    )
-    with urllib.request.urlopen(request) as response:
-        content_type = response.headers.get_content_type()
-        encoded = base64.b64encode(response.read()).decode("ascii")
-    return f"data:{content_type};base64,{encoded}"
-
-
 def fetch_stats():
     current_year = datetime.now(timezone.utc).year
     yearly = "\n".join(
@@ -104,7 +122,6 @@ def fetch_stats():
         query {{
           user(login: "{USER}") {{
             id
-            avatarUrl(size: 460)
             followers {{ totalCount }}
             repositories(first: 100, ownerAffiliations: OWNER) {{
               totalCount
@@ -121,7 +138,6 @@ def fetch_stats():
     repositories = user["repositories"]["nodes"]
     stats = {
         "followers": user["followers"]["totalCount"],
-        "avatar_url": user["avatarUrl"],
         "repos": user["repositories"]["totalCount"],
         "contributed": user["repositoriesContributedTo"]["totalCount"],
         "stars": sum(repo["stargazerCount"] for repo in repositories),
@@ -175,21 +191,19 @@ def info_lines(stats):
     ]
 
 
-def render(mode, stats, avatar_data):
+def render(mode, stats):
     palette = PALETTES[mode]
     output = [
         '<svg xmlns="http://www.w3.org/2000/svg" width="900" height="500" '
         'viewBox="0 0 900 500" font-family="Consolas, Menlo, monospace" font-size="13px">',
-        '<defs><clipPath id="avatar-clip"><circle cx="195" cy="225" r="145"/></clipPath></defs>',
         f'<rect x="0.5" y="0.5" width="899" height="499" rx="10" '
         f'fill="{palette["bg"]}" stroke="{palette["border"]}"/>',
-        f'<image href="{avatar_data}" x="50" y="80" width="290" height="290" '
-        'preserveAspectRatio="xMidYMid slice" clip-path="url(#avatar-clip)"/>',
-        f'<circle cx="195" cy="225" r="145" fill="none" stroke="{palette["heading"]}" '
-        'stroke-width="3"/>',
-        f'<text x="195" y="410" text-anchor="middle" fill="{palette["art"]}">'
-        'build · learn · distribute</text>',
     ]
+    for index, line in enumerate(ART.strip("\n").split("\n")):
+        output.append(
+            f'<text x="25" y="{42 + index * 15}" fill="{palette["art"]}" '
+            f'xml:space="preserve">{html.escape(line)}</text>'
+        )
     for index, segments in enumerate(info_lines(stats)):
         if not segments:
             continue
@@ -212,9 +226,8 @@ def self_check():
 if __name__ == "__main__":
     self_check()
     profile_stats = fetch_stats()
-    profile_avatar = fetch_avatar_data(profile_stats["avatar_url"])
     print("Stats:", profile_stats)
     for color_mode in PALETTES:
         with open(f"{color_mode}_mode.svg", "w", encoding="utf-8") as svg:
-            svg.write(render(color_mode, profile_stats, profile_avatar))
+            svg.write(render(color_mode, profile_stats))
     print("Wrote dark_mode.svg and light_mode.svg")
